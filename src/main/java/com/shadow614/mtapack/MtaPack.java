@@ -1,5 +1,6 @@
 package com.shadow614.mtapack;
 
+import com.shadow614.mtapack.block.ModBlocks;
 import com.shadow614.mtapack.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
@@ -14,6 +15,7 @@ public class MtaPack implements ModInitializer {
 	public void onInitialize() {
 
 		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
 
 	}
 }
