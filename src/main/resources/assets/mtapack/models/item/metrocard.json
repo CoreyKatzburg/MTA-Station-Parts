@@ -1,0 +1,7 @@
+{
+  "parent": "mtapack:custom/metrocard",
+  "textures": {
+    "0": "mtapack:item/metrocard",
+    "1": "mtapack:item/metrocard_sides"
+  }
+}

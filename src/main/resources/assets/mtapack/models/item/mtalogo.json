@@ -1,0 +1,6 @@
+{
+  "parent": "mtapack:custom/mtalogo",
+  "textures": {
+    "0": "mtapack:item/mtalogo"
+  }
+}
