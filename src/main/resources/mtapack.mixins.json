@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "com.shadow614.mtapack.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+		"ExampleMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
