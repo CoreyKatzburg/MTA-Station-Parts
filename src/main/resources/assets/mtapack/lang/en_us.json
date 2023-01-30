@@ -1,6 +1,7 @@
 {
   "itemGroup.mtapack.mta_station_parts": "MTA Station Parts",
+  "itemGroup.mtapack.test_group": "test group1",
 
-  "item.mtapack.mtalogo": "MTA Logo Block",
+  "block.mtapack.mtalogo_block": "MTA Logo Block",
   "item.mtapack.metrocard": "Metro Card"
 }

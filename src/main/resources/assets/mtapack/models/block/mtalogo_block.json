@@ -1,0 +1,8 @@
+{
+  "parent": "mtapack:custom/mtalogo_block",
+  "textures": {
+    "all": "mtapack:block/mtalogo",
+    "particle": "mtapack:mtalogo",
+    "0": "mtapack:block/mtalogo"
+  }
+}

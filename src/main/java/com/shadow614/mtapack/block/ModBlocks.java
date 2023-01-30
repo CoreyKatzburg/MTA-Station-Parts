@@ -15,7 +15,7 @@ import net.minecraft.util.registry.Registry;
 public class ModBlocks {
 
     public static final Block MTALOGO_BLOCK = registerBlock("mtalogo_block",
-            new Block(FabricBlockSettings.of(Material.METAL).strength(3.5f)), ModItemGroup.MTA_STATION_PARTS);
+            new Block(FabricBlockSettings.of(Material.METAL).strength(3.5f).resistance(6.0f)), ModItemGroup.MTA_STATION_PARTS);
 
 
     private static Block registerBlock(String name, Block block, ItemGroup tab) {
