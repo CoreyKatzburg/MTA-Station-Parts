@@ -14,8 +14,8 @@ public class MtaPack implements ModInitializer {
 	@Override
 	public void onInitialize() {
 
-		ModItems.registerModItems();
 		ModBlocks.registerModBlocks();
+		ModItems.registerModItems();
 
 	}
 }
